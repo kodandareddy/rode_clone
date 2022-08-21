@@ -15,8 +15,8 @@
 
 ## General Information
 - This is Basically a clone of Rode Ui using html,css,tailwind css.
--This Rode clone is a responsive website 
--It took me around 10 hours to build this ui
+- This Rode clone is a responsive website 
+- It took me around 10 hours to build this ui
 
 
 ## Technologies Used
